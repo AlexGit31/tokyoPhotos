@@ -1,0 +1,13 @@
+# Originaux pleine résolution — jamais commités (restent sur le Mac)
+photos_local/
+
+# Fichiers système macOS
+.DS_Store
+
+# Sortie de build (générée par build.py)
+public/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
